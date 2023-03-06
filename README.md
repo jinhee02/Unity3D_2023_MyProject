@@ -1,2 +1,2 @@
-# Unity3D_2023_MyProject
-- XR га╥на╖ф╝ ╫г╧╚
+О╩©# Unity3D_2023_MyProject
+- XR М■└К║°Л═²М┼╦ Л▀╓К╛╢
