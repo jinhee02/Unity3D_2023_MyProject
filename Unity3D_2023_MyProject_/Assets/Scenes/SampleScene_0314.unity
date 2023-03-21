@@ -347,10 +347,11 @@ MonoBehaviour:
     tweenType: 0
     nextindex: -100
   DialogInit: 1
-  dialogsDB: 0
+  dialogsDB: 1
   currentDialogIndex: -1
   currentSpeakerIndex: 0
   typingSpeed: 0.1
+  entity_dialouge: {fileID: 11400000, guid: 156a0147efbc0a54b9b7ee09207d5197, type: 2}
 --- !u!4 &638841718
 Transform:
   m_ObjectHideFlags: 0
