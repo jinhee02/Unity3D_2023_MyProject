@@ -1,0 +1,3 @@
+masterpiece, extremely detailed, face, black hair
+Negative prompt: Low_picture_quality, blurry, nsfw
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2345899103, Size: 512x512, Model hash: 5493a0ec49, Model: abyssorangemix3AOM3_aom3a1b, ControlNet Enabled: True, ControlNet Preprocessor: shuffle, ControlNet Model: control_v11e_sd15_shuffle [526bfdae], ControlNet Weight: 1, ControlNet Starting Step: 0, ControlNet Ending Step: 1, ControlNet Resize Mode: Crop and Resize, ControlNet Pixel Perfect: False, ControlNet Control Mode: Balanced, ControlNet Preprocessor Parameters: "(512, 64, 64)"
