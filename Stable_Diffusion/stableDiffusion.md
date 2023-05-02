@@ -37,7 +37,7 @@ prompt:
 Negative prompt:
 > Nsfw, blurry, Lowres
 
-![image]()
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/main/Stable_Diffusion/ControlNet/Lineart/00043-693115276.png)
 
 prompt:
 > masterpiece, extremely detailed
