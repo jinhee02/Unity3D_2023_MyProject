@@ -29,7 +29,7 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2085361284, Size: 512x7
 
 # Lineart
 
-![image]()
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/main/Stable_Diffusion/ControlNet/Lineart/00040-4092137133.png)
 
 prompt:
 > masterpiece, distinct, highres, black hair
@@ -37,9 +37,17 @@ prompt:
 Negative prompt:
 > Nsfw, blurry, Lowres
 
+![image]()
+
+prompt:
+> masterpiece, extremely detailed
+
+Negative prompt:
+> Low_picture_quality, blurry, nsfw
+
 # Scribble
 
-![image]()
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/main/Stable_Diffusion/ControlNet/Scribble/00041-2704462988.png)
 
 prompt:
 > lineart, white background, masterpiece, extremely detailed thick line drawing, 1girl, fullbody, holding a bunny doll, ribbit cape, hoodie, chibi, SD_character, short hair
@@ -49,7 +57,7 @@ Negative prompt:
 
 # Shuffle
 
-![image]()
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/main/Stable_Diffusion/ControlNet/Shuffle/00042-2345899103.png)
 
 prompt:
 > masterpiece, extremely detailed, face, black hair
