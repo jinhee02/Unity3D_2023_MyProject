@@ -94,3 +94,12 @@ Negative prompt:
 ![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/Openpose_After.png)
 ![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/openpose_Before2.png)
 ![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/Openpose_After2.png)
+
+# Reginal Promepter
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/6812d345606b80c163dd0adbe0169c19d11e994d/Stable_Diffusion/ControlNet/ReginalPromepter/00052-2066100404.png)
+
+# Dynamic Prompts (Wildcard)
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/6812d345606b80c163dd0adbe0169c19d11e994d/Stable_Diffusion/ControlNet/DynamicPrompts(Wildcard)/00028-4050397344.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/6812d345606b80c163dd0adbe0169c19d11e994d/Stable_Diffusion/ControlNet/DynamicPrompts(Wildcard)/00029-16705450.png)
