@@ -64,3 +64,33 @@ prompt:
 
 Negative prompt:
 > Low_picture_quality, blurry, nsfw
+
+# Pix2Pix
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Pix2Pix/Pix2Pix_Before.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Pix2Pix/Pix2Pix_After.png)
+
+# Tile
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Tile/Tile_Before.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Tile/Tile_After.png)
+
+# Depth
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/depth/depth_Before.jpg)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/depth/depth_After1.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/depth/depth_After.png)
+
+# Seg
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Seg/seg_Before.jpg)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Seg/seg_After_.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Seg/seg_After.png)
+
+# Openpose
+
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/openpose_Before.jpg)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/Openpose_After1.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/Openpose_After.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/openpose_Before2.png)
+![image](https://raw.githubusercontent.com/jinhee02/Unity3D_2023_MyProject/948df8b4b59bb8175f752d1b5c52776c047fd2e1/Stable_Diffusion/ControlNet/Openpose/Openpose_After2.png)
